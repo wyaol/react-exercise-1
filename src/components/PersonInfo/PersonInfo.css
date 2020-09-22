@@ -12,6 +12,8 @@ img {
   position: relative;
   top: -140px;
   z-index: -1;
+  padding-bottom: 26px;
+  margin: 0 10%;
 }
 
 header {
@@ -38,5 +40,5 @@ main {
 }
 
 .item {
-  margin: 30px 0;
+  margin: 23px 0;
 }

@@ -1,0 +1,24 @@
+.experience {
+  background-color: #ededed;
+  padding: 8px 10px;
+  float: left;
+  width: 85%;
+  margin-left: 10%;
+}
+
+.title {
+  margin: 5px 0;
+}
+
+span {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.font-weight {
+  font-weight: bold;
+  font-size: 15px;
+}

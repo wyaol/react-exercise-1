@@ -7,11 +7,12 @@ export default class Education extends Component {
     const { year, title, content, className } = this.props;
     return (
       <div className={className}>
-        <span>{year}</span>
-        <div>
-          <p className="title">{title}</p>
+        <span className="font-weight">{year}</span>
+        <div className="experience">
+          <p className="title font-weight">{title}</p>
           <p className="content">{content}</p>
         </div>
+        <div className="clear"></div>
       </div>
     );
   }
